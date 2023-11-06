@@ -1,7 +1,7 @@
 # Fault-List-Simulation
 
 ## Overview
-This projectinvolves developing a program for fault listing and simulation in digital circuits. The program is designed to handle bench files representing digital circuits, allowing users to analyze and simulate various fault scenarios.
+This project involves developing a program for fault listing and simulation in digital circuits. The program is designed to handle bench files representing digital circuits, allowing users to analyze and simulate various fault scenarios.
 
 ## Features
 
